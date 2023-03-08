@@ -1,0 +1,20 @@
+[
+  {
+    "firstname" : "Maria" ,
+    "lastname" : "Jose Garcia" ,
+    "email" : "ay7aga1111@gmail.com" ,
+    "password" : "1234567" ,
+    "productquantity" : "3" ,
+    "firstproductname" : "16GB MEMORY CARD" ,
+    "secondproductname" : "8GB MEMORY CARD" ,
+    "adress" : "5 Florida st." ,
+    "city" : "Madrid" ,
+    "state" : "Madrid" ,
+    "zip" : "123" ,
+    "country" : "Spain" ,
+    "telephone" : "0100000000" ,
+    "reviewtxt" : "Very good pants!" ,
+    "summaryreviewtxt" : "Recommended" ,
+    "nicknametxt" : "Mar"
+  }
+]
